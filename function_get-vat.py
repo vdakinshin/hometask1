@@ -10,3 +10,5 @@ def get_vat(payment, percent=18):
 
 result = get_vat(100, '17')
 print(result)
+
+# comment for git testing
